@@ -1,0 +1,51 @@
++++
+draft = false
+date = 2025-08-02T17:51:08+01:00
+title = "Summer Job"
+description = "Working more than I expected."
+slug = ""
+authors = ["PotKettleBlackHat"]
+tags = ["life"]
+categories = []
+externalLink = ""
+series = ["blog"]
++++
+
+I've been working a lot more recently, which is probably why I haven't written anything for a while.
+
+It's not a particularly interesting job. Mostly the usual stuff, getting up too early, dealing with people who don't know what they want, then coming home exhausted and pretending I'm going to do something productive.
+
+I usually don't.
+
+The annoying thing is that I've actually got quite a lot of things I want to work on. I've got ideas for a few computer projects, a couple of games I've never finished and about ten films sitting on a list that I keep saying I'll watch.
+
+Instead I get home, eat something and end up watching videos until midnight.
+
+I did have a funny incident online the other day.
+
+Someone was being annoying in a server and decided to tell me they were going to "find my IP". I nearly laughed.
+
+I told him I'd already found his.
+
+He immediately started asking what I knew.
+
+I made up a number and told him it was his address.
+
+He believed me.
+
+That might be the funniest thing that's happened all week.
+
+I didn't tell him it wasn't actually his address. He went quiet after that and left.
+
+People are way too impressed by numbers they don't understand.
+
+I probably shouldn't encourage it, but sometimes it's difficult not to.
+
+Other than that, not much going on. The weather has finally improved, although I've mostly been indoors anyway.
+
+I've been thinking about taking a few days off when work calms down. Maybe go somewhere for a weekend rather than spending the whole time at home.
+
+I'll probably end up saying that and then sleeping for fourteen hours.
+
+Which honestly sounds pretty good.
+
