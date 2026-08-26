@@ -48,4 +48,3 @@ Anyway, I made pasta afterward and used far too much sauce. Still ate all of it.
 No further contact from the number.
 
 Operation closed for now.
-

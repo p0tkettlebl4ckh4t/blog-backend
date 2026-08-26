@@ -46,4 +46,3 @@ You never throw away an unknown cable. It might be the exact one you need six ye
 Not me.
 
 The biscuits went in the bin, though. I have limits.
-

@@ -46,4 +46,3 @@ Tomorrow I'm meeting a friend for coffee. Haven't seen him in a couple of weeks,
 I should probably go to sleep soon.
 
 It's nearly eleven and I said that at eight as well.
-

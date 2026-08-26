@@ -42,4 +42,3 @@ After the desk was dry, I made another cup of tea and put it on the other side o
 The notebook might recover.
 
 I'll assess it in the morning.
-

@@ -44,4 +44,3 @@ Everything was fine.
 I did leave the light on afterward, but that was because I was getting a drink.
 
 Not because of the cupboard.
-

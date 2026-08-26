@@ -38,4 +38,3 @@ Honestly, some people get very dramatic about the internet.
 The rest of tonight is probably going to be a film and some food. I bought ingredients to cook something properly but there's a strong chance they'll remain in the fridge while I order a pizza.
 
 We'll see.
-

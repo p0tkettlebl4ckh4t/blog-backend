@@ -46,4 +46,3 @@ Probably for the best. Christmas is supposed to be peaceful.
 I've still saved the light pattern, obviously.
 
 Just in case.
-

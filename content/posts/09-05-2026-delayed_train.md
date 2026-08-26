@@ -42,4 +42,3 @@ The bottle had no sensitive information on it.
 I checked.
 
 Long day, but at least I learned something: always bring a second drink, and never trust a man who can sit beside a vending machine without buying anything.
-

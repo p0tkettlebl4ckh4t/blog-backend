@@ -28,4 +28,3 @@ I could probably find most people's details if I actually cared enough.
 Anyway, that's enough for a first post. I'm going to bed because it's nearly 1am and I've got absolutely nothing planned tomorrow.
 
 Probably the best possible start to a blog.
-
