@@ -18,10 +18,10 @@ noClasses = false
 unsafe = true
 
 [params]
-author = "PotKettleBlackHat"
+author = "PotKettleBlackHat - J.Schlung"
 description = "The official blog of PotKettleBlackHat. The greatest hacker known to man - J.Schlung"
-keywords = "blog,hacker,kettle enthusiast,parent,PotKettleBlackHat"
-info = ["Hacker", "OpSec Expert"]
+keywords = "blog,hacker,kettle enthusiast,parent,PotKettleBlackHat,ZeroDays,DayZeroCTF"
+info = ["Hacker", "OpSec Expert","PotKettleBlackHat"]
 avatarURL = "images/profile.png"
 dateFormat = "January 2, 2006"
 since = 2019
